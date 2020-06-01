@@ -1,5 +1,5 @@
 # Mp3-Encoder
-Implementation of an Mp3 encoder from scratch using python3 
+Implementation of a simple Mp3 encoder from scratch using python3 
 ## Libraries used:
 <ul>
   <li>Numpy</li>
