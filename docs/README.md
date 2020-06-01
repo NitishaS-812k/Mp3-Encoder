@@ -13,3 +13,4 @@ To use this encoder to encode some .wav files(only standard integer PCM WAVE fil
 To encode one of the .wav files in the samples folder( for example: sine.wav), use:<br>
 <code>python encoder.py samples/sine.wav samples/sine.mp3 320</code><br>
 If the name of the output file isn't provided, the output file will be created having the same name and a .mp3 extension. The last argument passed to the file is the bitrate. Bitrates starting from 64kbps to 448 kbps with steps of 32kbps are supported. Lower bitrates compress the file more reducing quality and size of the file and vice versa.
+More information on the working of this encoder can be obtained <a href = "https://nitishas-812k.github.io/Mp3-Encoder/working.md"> here</a>.
