@@ -8,7 +8,7 @@ def subband_filtering(x, h):
 
         Arguments:
         x:  a new 512-point data buffer, in time-reversed order [x[n],x[n-1],...,x[n-511]].
-        h:  The prototype filter of the filter bank you found in the previous assignment
+        h:  The prototype filter of the filter bank
 
         Returns:
         s: 32 new output samples
